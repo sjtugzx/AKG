@@ -1,0 +1,7 @@
+adapter_transformers==3.1.0
+nltk==3.5
+numpy==1.20.3
+progressbar33==2.4
+PyYAML==6.0.1
+torch==2.0.0
+transformers==4.36.2
